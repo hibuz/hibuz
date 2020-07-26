@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on SSAFY
-- 🌱 I’m interested in Dev 
+🔭 I’m currently working on SSAFY, 🌱 I’m interested in Dev 
 <!--
 **hibuz/hibuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
